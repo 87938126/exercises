@@ -25,3 +25,7 @@ def hy(e):                   #待理解。。。
 
 btn01.bind("<Button-1>", hy) #绑定单击事件
 
+
+#第五步，开始事件循环
+root.mainloop() #可以理解为开始方法
+
